@@ -1,0 +1,27 @@
+Species,log10(Max avg. abundance),Group,log10(LDA score),P value (Kruskal-Wallis rank-sum test),Class,Order,Family,Genus
+14207_7_83,3.9479234964,healthy,3.61167752526,0.045571720757,Clostridia,Clostridiales,Lachnospiraceae,Roseburia
+18048_1_69,3.65532604922,healthy,3.20347463011,0.0448666383882,Clostridia,Clostridiales,Lachnospiraceae,
+GCF_000155855,3.15084121307,healthy,2.82429699278,0.0460378977686,Clostridia,Clostridiales,,
+GCF_000174195,2.6581470158,uc,2.09802960478,0.0252832709552,Clostridia,Clostridiales,Lachnospiraceae,Roseburia
+GCF_000189615,2.78965267607,crohn,2.37403410058,0.0214895473934,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridium
+GCF_000411335,2.60545668487,crohn,2.10231197722,0.0276571510535,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus
+GCF_900095835,2.96258729504,crohn,2.17007027951,0.0434338870724,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella
+UMGS1215,2.57680223247,uc,2.14868694528,0.0425867805314,Clostridia,Clostridiales,,
+UMGS1587,2.71961051717,healthy,2.15714091768,0.0464782947597,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes
+UMGS1621,2.55733532553,healthy,2.01320345579,0.0291666127141,Clostridia,Clostridiales,,
+UMGS1625,2.7961177411,crohn,2.43690093526,0.0217220108608,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridium
+UMGS1898,2.92177921363,crohn,2.10618364662,0.0398203049742,Clostridia,Clostridiales,Ruminococcaceae,
+UMGS365,3.29785087303,healthy,2.80820406558,0.037147563795,Clostridia,Clostridiales,,
+UMGS368,3.26762200033,healthy,2.79980439393,0.0189521485312,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes
+UMGS37,3.26610732542,uc,2.53236435204,0.0163870635009,Clostridia,Clostridiales,Lachnospiraceae,Lachnospira
+UMGS38,3.02046225029,healthy,2.59867936927,0.047881248421,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus
+UMGS41,2.93511503207,uc,2.46823856087,0.0108321652717,Clostridia,Clostridiales,Ruminococcaceae,Anaeromassilibacillus
+UMGS456,3.03426874427,healthy,2.6094644981,0.0325850767121,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus
+UMGS459,2.52067585818,healthy,2.11071767796,0.0155339287153,Clostridia,Clostridiales,,
+UMGS624,3.19233519213,crohn,2.43729645114,0.0334268746116,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides
+UMGS64,2.53003008769,crohn,2.10036848315,0.0275948052362,Alphaproteobacteria,,,
+UMGS710,2.76562720531,crohn,2.12494667346,0.0253783380955,Clostridia,Clostridiales,,
+UMGS740,3.31410273919,uc,2.92979921966,0.0368908498955,Clostridia,Clostridiales,,
+UMGS786,3.23293676794,uc,2.86333064863,0.0139874012977,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridium
+UMGS871,2.95452629611,crohn,2.14822353197,0.03013586978,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides
+UMGS947,3.34514235869,crohn,2.92917234502,0.0163498339507,Clostridia,Clostridiales,,
