@@ -11,3 +11,5 @@ results: lists the unfiltered results of our MetaTransformer model as well as th
 
 results_all_tools: lists the prediction recall and l2 score for all genus and species prediction
 
+ground_truths: the ground truth for MAG and MOCK
+
